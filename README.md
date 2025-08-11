@@ -69,7 +69,7 @@ The application uses the [Quotable API](https://api.quotable.io/) to fetch quote
 
 ## 📱 Demo
 
-[Live Demo](https://yourusername.github.io/quote-generator) *(Update with your actual GitHub Pages URL)*
+[Live Demo](https://gichbe.github.io/quote-generator/)
 
 ## 🤝 Contributing
 
